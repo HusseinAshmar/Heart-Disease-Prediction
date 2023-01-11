@@ -2,7 +2,7 @@
 
 # python libraries installation
 
-# in cmd
+# in cmd:
 
 
 # pip install sklearn
